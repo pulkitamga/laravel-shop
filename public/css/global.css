@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+:root{
+    --primary-color:#ea6438;
+
+}
+
+
+.text-primary
+{
+    color: var(--primary-color) !important;
+}
